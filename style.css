@@ -1,0 +1,25 @@
+body {
+  background-color: green;
+  font-family: monospace;
+}
+
+h1 {
+  display: flex;
+  justify-content: baseline;
+  flex-direction: row-reverse;
+  font-family: cursive;
+  font-style: italic;
+  color: teal;
+}
+
+h2 {
+  font-family: Courier;
+  font-style: oblique;
+  color: fuchsia;
+}
+
+h3 {
+  font-family: Calibri;
+  font-style: inherit;
+  color: brown;
+}
